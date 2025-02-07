@@ -1,0 +1,16 @@
+.search{
+    max-width: 80%;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.submit{
+    max-width: 25%;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.list{
+    list-style-type: none;
+}
